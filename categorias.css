@@ -1,0 +1,40 @@
+img{
+    height: 300px;
+}
+
+
+a{
+    text-decoration: none;
+    color: rgb(12, 12, 199);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+p{
+    background-color: rgba(255, 255, 255, 0.418);
+    border-radius: 5px;
+    margin: 13px;  
+}
+
+
+.man{
+    margin: 10px;
+    transition: .5s;
+}
+
+
+.man:hover{
+    transform: scale(1.1);
+}
+
+
+#categoria1{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    align-content
+    margin: 20px;
+    background-color:  rgba(29, 27, 27);;
+}
